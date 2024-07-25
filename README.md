@@ -9,7 +9,6 @@ Features:-
 3)Delete: Remove a node with a given value from the BST.
 4)Menu-Driven Interface: A simple command-line interface to interact with the BST.
 
-The program provides a menu-driven interface to perform operations on the BST:
 #Usage
 
 1)Insert a value into the tree.
